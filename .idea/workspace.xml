@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4a78468-13c4-4548-83c9-218ce65956f2" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/deep_class/04_Multi-Linear-Regression.py" />
+        <option value="$PROJECT_DIR$/deep_class/03_Gradient_Descent.py" />
+        <option value="$PROJECT_DIR$/hoon/01_Multi-RL.py" />
+        <option value="$PROJECT_DIR$/hoon/02_Multi-LR-Matrix.py" />
+        <option value="$PROJECT_DIR$/hoon/03_Multi-LR-Matrix-no_Bias.py" />
+        <option value="$PROJECT_DIR$/hoon/01_Multi-LR.py" />
+        <option value="$PROJECT_DIR$/etc/sigmoid_graph.py" />
+        <option value="$PROJECT_DIR$/etc/sigmoid_graph2.py" />
+        <option value="$PROJECT_DIR$/etc/sigmoid_graph3.py" />
+        <option value="$PROJECT_DIR$/deep_class/07_Multi_Logistic_Regression.py" />
+        <option value="$PROJECT_DIR$/deep_class/06_Logistic_Regression.py" />
+        <option value="$PROJECT_DIR$/deep_class/08_XOR.py" />
+        <option value="$PROJECT_DIR$/deep_class/09_XOR-backpropagation.py" />
+        <option value="$PROJECT_DIR$/deep_code/01_My_First_Deeplearning.py" />
+        <option value="$PROJECT_DIR$/deep_code/02_Pima_Indian.py" />
+        <option value="$PROJECT_DIR$/deep_code/06-Sonar-Save-Model.py" />
+        <option value="$PROJECT_DIR$/deep_code/08_Wine.py" />
+        <option value="$PROJECT_DIR$/deep_code/11_Wine_Early_Stop.py" />
+        <option value="$PROJECT_DIR$/etc/gym_test.py" />
+        <option value="$PROJECT_DIR$/reinforcement_learning/01_frozen_lake.py" />
+        <option value="$PROJECT_DIR$/deep_code/03_Iris_Multi_Classfication.py" />
+        <option value="$PROJECT_DIR$/deep_code/04-Sonar.py" />
+        <option value="$PROJECT_DIR$/deep_code/05_Sonar_Train_Test.py" />
+        <option value="$PROJECT_DIR$/deep_code/07_Sonar-K-fold.py" />
+        <option value="$PROJECT_DIR$/deep_code/09_Wine_Checkpoint.py" />
+        <option value="$PROJECT_DIR$/deep_code/10_Wine_Overfit_Graph.py" />
+        <option value="$PROJECT_DIR$/deep_code/12_Wine_Check_and_Stop.py" />
+        <option value="$PROJECT_DIR$/deep_code/13_Boston.py" />
+        <option value="$PROJECT_DIR$/deep_code/13_Boston_new.py" />
+        <option value="$PROJECT_DIR$/deep_code/14_MNIST_Data.py" />
+        <option value="$PROJECT_DIR$/190115/윤민재.py" />
+        <option value="$PROJECT_DIR$/190115/이강구.py" />
+        <option value="$PROJECT_DIR$/190115/황현.py" />
+        <option value="$PROJECT_DIR$/190115/안수빈.py" />
+        <option value="$PROJECT_DIR$/190115/이세웅.py" />
+        <option value="$PROJECT_DIR$/deep_code/15_MNIST_Simple.py" />
+        <option value="$PROJECT_DIR$/deep_code/16_MNIST_Deep_02.py" />
+        <option value="$PROJECT_DIR$/deep_code/16_MNIST_Deep_03.py" />
+        <option value="$PROJECT_DIR$/deep_code/16_MNIST_Deep.py" />
+        <option value="$PROJECT_DIR$/deep_code/17_Min-char-rnn.py" />
+        <option value="$PROJECT_DIR$/deep_code/18_Butterfly_lstm3.py" />
+        <option value="$PROJECT_DIR$/deep_code/17_RNN1_Reuters.py" />
+        <option value="$PROJECT_DIR$/deep_code/18_Butterfly_lstm2.py" />
+        <option value="$PROJECT_DIR$/deep_code/18_Butterfly_lstm.py" />
+        <option value="$PROJECT_DIR$/deep_code/18_Butterfly.py" />
+        <option value="$PROJECT_DIR$/190115_머신러닝/김도훈/ex1.py" />
+        <option value="$PROJECT_DIR$/190115_머신러닝/안수빈/exam1.py" />
+        <option value="$PROJECT_DIR$/190115_머신러닝/윤민재/exam_190115_01.py" />
+        <option value="$PROJECT_DIR$/190115_머신러닝/이강구/test1.py" />
+        <option value="$PROJECT_DIR$/190115_머신러닝/이세웅/exam_01.py" />
+        <option value="$PROJECT_DIR$/190115_머신러닝/황현/test01.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="2" />
+    <option name="width" value="1276" />
+    <option name="height" value="952" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DeepLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DeepLearning" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/reinforcement_learning" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Workspace\Python\DeepLearning" />
+      <recent name="F:\Workspace\Python\DeepLearning\reinforcement_learning" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Workspace\Python\DeepLearning" />
+      <recent name="F:\Workspace\Python\DeepLearning\deep_code" />
+      <recent name="F:\Workspace\Python\DeepLearning\190115" />
+      <recent name="F:\Workspace\Python\DeepLearning\etc" />
+      <recent name="F:\Workspace\Python\DeepLearning\hoon" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.exam_02">
+    <configuration name="exam_02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DeepLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190115_머신러닝/이세웅" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190115_머신러닝/이세웅/exam_02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exam_03" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DeepLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190115_머신러닝/이세웅" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190115_머신러닝/이세웅/exam_03.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DeepLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190115_머신러닝/황현" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190115_머신러닝/황현/test01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DeepLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190115_머신러닝/황현" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190115_머신러닝/황현/test02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test03" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DeepLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190115_머신러닝/황현" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190115_머신러닝/황현/test03.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.exam_02" />
+        <item itemvalue="Python.test03" />
+        <item itemvalue="Python.test02" />
+        <item itemvalue="Python.test01" />
+        <item itemvalue="Python.exam_03" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4a78468-13c4-4548-83c9-218ce65956f2" name="Default Changelist" comment="" />
+      <created>1546918763743</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546918763743</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="2" y="0" width="1276" height="952" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2095857" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="DB Browser" order="3" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.63466334" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4520202" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32917705" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="DB Execution Console" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32917705" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.17206983" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/deep_code/08_Wine.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/deep_code/15_MNIST_Simple.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/190115/김도훈.py" />
+    <entry file="file://$PROJECT_DIR$/keras-master/examples/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keras-master/examples/mnist_acgan.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keras-master/examples/cifar10_cnn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_code/14_MNIST_Data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-475">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#24#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_code/15_MNIST_Simple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="42" column="31" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keras-master/examples/cifar10_resnet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1518" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keras-master/examples/addition_rnn.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keras-master/examples/mnist_cnn.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_code/16_MNIST_Deep_03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="28" column="85" selection-start-line="28" selection-start-column="85" selection-end-line="28" selection-end-column="85" />
+          <folding>
+            <element signature="e#24#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_code/16_MNIST_Deep_02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="40" column="23" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_code/08_Wine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" selection-end-line="1" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_code/12_Wine_Check_and_Stop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy-deep-learning-with-Keras-master/3. RNN/2-Advanced-RNN/2-1-deep-rnn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-350">
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy-deep-learning-with-Keras-master/3. RNN/1-Basic-RNN/1-2-stacked-vanilla-rnn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-726">
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy-deep-learning-with-Keras-master/3. RNN/1-Basic-RNN/1-1-vanilla-rnn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-696">
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_code/17_Min-char-rnn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3014">
+          <caret line="137" column="3" lean-forward="true" selection-start-line="137" selection-start-column="3" selection-end-line="137" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../asirra_dogs_cats/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_code/13_Boston.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="938">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="e#23#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_code/13_Boston_new.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="33" column="38" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_code/17_RNN2_imdb_lstm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-264" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_code/16_MNIST_Deep.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-99">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_code/17_RNN1_Reuters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_code/18_Butterfly.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="86" column="19" lean-forward="true" selection-start-line="86" selection-start-column="19" selection-end-line="86" selection-end-column="19" />
+          <folding>
+            <element signature="e#18#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_code/18_Butterfly_lstm2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="92" column="1" selection-start-line="92" selection-start-column="1" selection-end-line="92" selection-end-column="1" />
+          <folding>
+            <element signature="e#18#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_code/18_Butterfly_lstm3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="120" column="9" lean-forward="true" selection-start-line="120" selection-start-column="9" selection-end-line="120" selection-end-column="9" />
+          <folding>
+            <element signature="e#18#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_code/18_Butterfly_lstm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="84" column="65" selection-start-line="84" selection-start-column="65" selection-end-line="84" selection-end-column="65" />
+          <folding>
+            <element signature="e#18#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reinforcement_learning/00_gym_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="42" lean-forward="true" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190115_머신러닝/김도훈/ex3.py" />
+    <entry file="file://$PROJECT_DIR$/190115_머신러닝/김도훈/ex2.py" />
+    <entry file="file://$PROJECT_DIR$/190115_머신러닝/김도훈/ex1.py" />
+    <entry file="file://$PROJECT_DIR$/190115_머신러닝/안수빈/exam1.py" />
+    <entry file="file://$PROJECT_DIR$/190115_머신러닝/안수빈/exam3.py" />
+    <entry file="file://$PROJECT_DIR$/190115_머신러닝/안수빈/exam2.py" />
+    <entry file="file://$PROJECT_DIR$/190115_머신러닝/윤민재/exam_190115_03.py" />
+    <entry file="file://$PROJECT_DIR$/190115_머신러닝/윤민재/exam_190115_02.py" />
+    <entry file="file://$PROJECT_DIR$/190115_머신러닝/윤민재/exam_190115_01.py" />
+    <entry file="file://$PROJECT_DIR$/190115_머신러닝/이강구/test3.py" />
+    <entry file="file://$PROJECT_DIR$/190115_머신러닝/이강구/test2.py" />
+    <entry file="file://$PROJECT_DIR$/190115_머신러닝/이강구/test1.py" />
+    <entry file="file://$PROJECT_DIR$/190115_머신러닝/이세웅/exam_03.py" />
+    <entry file="file://$PROJECT_DIR$/190115_머신러닝/이세웅/exam_01.py" />
+    <entry file="file://$PROJECT_DIR$/190115_머신러닝/이세웅/exam_02.py" />
+    <entry file="file://$PROJECT_DIR$/190115_머신러닝/황현/test03.py" />
+    <entry file="file://$PROJECT_DIR$/190115_머신러닝/황현/test02.py" />
+    <entry file="file://$PROJECT_DIR$/190115_머신러닝/황현/test01.py" />
+    <entry file="file://$PROJECT_DIR$/190117_제품_소프트웨어_패키징/김성운/ex)5.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190117_제품_소프트웨어_패키징/김성운/ex)4.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190117_제품_소프트웨어_패키징/김성운/ex)3.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190117_제품_소프트웨어_패키징/김성운/ex)2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190117_제품_소프트웨어_패키징/김성운/ex)1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-45">
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
